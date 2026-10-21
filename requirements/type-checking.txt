@@ -851,7 +851,7 @@ pygments==2.20.0
     #   rich
     #   sphinx
     #   sphinx-tabs
-pyjwt==2.13.0
+pyjwt==2.15.1
     # via
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt
@@ -1100,7 +1100,7 @@ tomlkit==0.13.2
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt
     #   pylint
-tornado==6.5.7
+tornado==6.6
     # via
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt
@@ -1162,7 +1162,7 @@ uritemplate==4.1.1
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt
     #   drf-spectacular
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   -c requirements/ci.txt
     #   -r requirements/ci.txt

@@ -421,7 +421,7 @@ pygments==2.20.0
     # via
     #   django-log-outgoing-requests
     #   rich
-pyjwt==2.13.0
+pyjwt==2.15.1
     # via
     #   commonground-api-common
     #   mozilla-django-oidc
@@ -506,7 +506,7 @@ structlog==25.4.0
     #   django-structlog
     #   notifications-api-common
     #   open-api-framework
-tornado==6.5.7
+tornado==6.6
     # via flower
 typing-extensions==4.12.2
     # via
@@ -540,7 +540,7 @@ uri-template==1.3.0
     # via jsonschema
 uritemplate==4.1.1
     # via drf-spectacular
-urllib3==2.7.0
+urllib3==2.8.0
     # via
     #   elastic-apm
     #   requests
